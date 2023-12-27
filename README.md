@@ -1,16 +1,18 @@
 # Ilyas Onar portfolio website 
-This website is created for course project, i have used a variety of tools, encomprising HTML,CSSand script.js to create this website.
+This website is created for course project, i have used a variety of tools, encomprising HTML,CSS and script.js to create this website.
 ![](https://github.com/ilyasonar/ilyasonar.github.io/blob/main/portfolioscrennshot.png) 
 # Features
 ## Header, Navigation and Sections
 ![](https://github.com/ilyasonar/ilyasonar.github.io/blob/main/headerandnavigation.png) 
 
-In the above screenshot, there is a header with my name, as well as profile photo of me. I have used responsive design in such a way that on larger screens the logo is on the same line with the my name and the tagline, and on smaller screens the logo is on top, with the rest below it.
+In the above screenshot, there is a header with my name, as well as profile photo of me. I have used responsive design in such a way that on larger screens the logo is on the same line with the my name and the tagline, and on smaller screens the logo is on left side hidden, with the rest on right side of it with smaller navigation menu on top right.
 
 The Navigation Bar consists of links to the 5 sections of the page: Home, About,Education,Portfolio and Contact. These links have been designed to take you to the relevant part of the page.
 
-## Contact
-The bottom of the page, there are various options displayed as means of contact. A phone number, email and social media handles have been provided. For the social media icons displayed on the bottom of the page, I got my codes from [Boxicons] (https://boxicons.com/), which I have referenced in their respective places.
+## Contact Me
+The bottom of the page, there are various options displayed as means of contact. Email address, phone number and location have been provided.
+
+Next to the contact information, there is also a contact form available. Visitors can send a message via this form. I have used Code Institute's FormDump. 
 
 # Testing
 I have tested this website using Google Chrome and Microsoft Edge on my Windows PC, adjusting the window size and seeing its outlook on different screen sizes. I have also tested it on my personal mobile device.
