@@ -10,6 +10,8 @@ In the above screenshot, there is a header with my name, as well as profile phot
 The Navigation Bar consists of links to the 5 sections of the page: Home, About,Education,Portfolio and Contact. These links have been designed to take you to the relevant part of the page.
 
 ## Contact Me
+![](https://github.com/ilyasonar/ilyasonar.github.io/blob/main/contactme.png) 
+
 The bottom of the page, there are various options displayed as means of contact. Email address, phone number and location have been provided.
 
 Next to the contact information, there is also a contact form available. Visitors can send a message via this form. I have used Code Institute's FormDump. 
