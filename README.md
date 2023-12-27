@@ -1,12 +1,12 @@
 # Ilyas Onar portfolio website 
 This website is created for course project, i have used a variety of tools, encomprising HTML,CSSand script.js to create this website.
-
-# Features
 ![](https://github.com/ilyasonar/ilyasonar.github.io/blob/main/portfolioscrennshot.png) 
+# Features
 ## Header, Navigation and Sections
-In the above screenshot, there is a header with my name, as well as profile photo of me, which I edited myself. I have used responsive design in such a way that on larger screens the logo is on the same line with the company name and the tagline, and on smaller screens the logo is on top, with the rest below it.
+![](https://github.com/ilyasonar/ilyasonar.github.io/blob/main/headerandnavigationmenu.png) 
+In the above screenshot, there is a header with my name, as well as profile photo of me. I have used responsive design in such a way that on larger screens the logo is on the same line with the my name and the tagline, and on smaller screens the logo is on top, with the rest below it.
 
-The Navigation Bar consists of links to the 3 sections of the page: Home, About Me and Contact. These links have been designed to take you to the relevant part of the page.
+The Navigation Bar consists of links to the 5 sections of the page: Home, About,Education,Portfolio and Contact. These links have been designed to take you to the relevant part of the page.
 
 ## Contact
 The bottom of the page, there are various options displayed as means of contact. A phone number, email and social media handles have been provided. For the social media icons displayed on the bottom of the page, I got my codes from [Boxicons] (https://boxicons.com/), which I have referenced in their respective places.
