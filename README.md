@@ -7,7 +7,8 @@ This website is created for course project, i have used a variety of tools, enco
 
 In the above screenshot, there is a header with my name, as well as profile photo of me. I have used responsive design in such a way that on larger screens the logo is on the same line with the my name and the tagline, and on smaller screens the logo is on left side hidden, with the rest on right side of it with smaller navigation menu on top right.
 
-The Navigation Bar consists of links to the 5 sections of the page: Home, About,Education,Portfolio and Contact. These links have been designed to take you to the relevant part of the page.
+The Navigation Bar consists of links to the 5 sections of the page: Home, About, Education, Portfolio and Contact. These links have been designed to take you to the relevant part of the page.
+There is also a scroll to top icon on the bottom right of th website, which helps visitors to go top of the website quicker. I asked Microsoft Bing ai image creater to create that icon for the website.
 
 ## Contact Me
 ![](https://github.com/ilyasonar/ilyasonar.github.io/blob/main/contactme.png) 
@@ -25,9 +26,7 @@ I have tested and confirmed that all text is easy to read.
 
 # Bugs
 
-The responsive design for the form isn't 100% good and it might still mess up a bit on smaller screens.
-
-The menu bar could be fixed on the top of the website.
+Whilst coding the form, I forgot to add the POST method and the action URL, which led to the form not working, hence I had to add those after finding that out.
 
 # Validator Testing
 I have tested the HTML code with W3C Validator testing and there are no errors with my code.
