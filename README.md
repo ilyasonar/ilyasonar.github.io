@@ -3,7 +3,7 @@ This website is created for course project, i have used a variety of tools, enco
 ![](https://github.com/ilyasonar/ilyasonar.github.io/blob/main/portfolioscrennshot.png) 
 # Features
 ## Header, Navigation and Sections
-
+![](https://github.com/ilyasonar/ilyasonar.github.io/blob/main/headerandnavigation.png) 
 In the above screenshot, there is a header with my name, as well as profile photo of me. I have used responsive design in such a way that on larger screens the logo is on the same line with the my name and the tagline, and on smaller screens the logo is on top, with the rest below it.
 
 The Navigation Bar consists of links to the 5 sections of the page: Home, About,Education,Portfolio and Contact. These links have been designed to take you to the relevant part of the page.
