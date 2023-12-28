@@ -50,3 +50,4 @@ I have tested the HTML code with W3C Validator testing and there are no errors w
 
 # Deployment
 The site was deployed with GitHub pages. In the repository of this code on GitHub, the main branch was selected, and then a link was automatically generated for the website.
+[Link to live site](https://ilyasonar.github.io/)
