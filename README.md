@@ -3,7 +3,7 @@ This website is created for course project, i have used a variety of tools, enco
 ![](https://github.com/ilyasonar/ilyasonar.github.io/blob/main/portfolioscrennshot.png) 
 # Features
 ## Header, Navigation and Sections
-![](https://github.com/ilyasonar/ilyasonar.github.io/blob/main/headerandnavigation.png) 
+![](https://github.com/ilyasonar/ilyasonar.github.io/blob/main/headandnav.png) 
 
 In the above screenshot, there is a header with my name, as well as profile photo of me. I have used responsive design in such a way that on larger screens the logo is on the same line with the my name and the tagline, and on smaller screens the logo is on left side hidden, with the rest on right side of it with smaller navigation menu on top right.
 
