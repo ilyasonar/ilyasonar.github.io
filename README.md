@@ -1,5 +1,5 @@
 # Ilyas Onar portfolio website 
-This website is created for course project, i have used a variety of tools, encomprising HTML,CSS and script.js to create this website.
+This website is created for a course project, i have used a variety of tools, encomprising HTML,CSS and script.js to create this website.
 ![](https://github.com/ilyasonar/ilyasonar.github.io/blob/main/portfolioscrennshot.png) 
 # Features
 ## Header, Navigation and Sections
