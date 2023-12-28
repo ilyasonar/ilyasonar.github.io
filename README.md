@@ -20,9 +20,10 @@ Next to the contact information, there is also a contact form available. Visitor
 # Testing
 I have tested this website using Google Chrome and Microsoft Edge on my Windows PC, adjusting the window size and seeing its outlook on different screen sizes. I have also tested it on my personal mobile device.
 
-I have tested and confirmed that all the links are working.
+I have tested and confirmed that all the links are working.I have tested and confirmed that all text is easy to read.
 
-I have tested and confirmed that all text is easy to read.
+I have tested the CSS code with W3C Jigsaw testing and there are no errors with my code.
+![](https://github.com/ilyasonar/ilyasonar.github.io/blob/main/chromelighthousetest.png)
 
 # Bugs
 
